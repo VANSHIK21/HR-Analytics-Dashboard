@@ -34,7 +34,7 @@ The Tableau dashboard includes:
 The dataset for this HR Analytics project can be found at the following link:
 [Dataset Link](https://docs.google.com/spreadsheets/d/1SD0i1YmT6wdi28rGpjtCX1O7DeHYh4pb/edit?usp=sharing&ouid=115158991998060265236&rtpof=true&sd=true)
 ## 📷 Preview
-![Dashboard Screenshot] (Dashboard Screenshot.png )
+![Dashboard Screenshot] (Dashboard Screenshot.png .png )
 
 ## 🔗 Live Dashboard
 [Click here to view on Tableau Public](https://public.tableau.com/app/profile/vanshika.sagar/viz/HRAnalyticsDashboard_17447999397290/HRANALYTICSDASHBOARD?publish=yes)
